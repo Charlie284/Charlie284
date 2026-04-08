@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Charlie284&label=Profile views&color=0e75b6&style=flat" alt="Charlie284" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Charlie284" alt="Charlie284" /></a> </p>
+
 
 - 🔭 I'm currently working on **Personal web projects, self-hosted tools, and experimenting with Linux and media server setups**
 

@@ -2,8 +2,6 @@
 
 ### Student developer focused on Flutter, Rust, Linux, and self-hosted projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Charlie284&label=Profile views&color=0e75b6&style=flat" alt="Charlie284" /> </p>
-
 
 
 - 🔭 I'm currently working on **Personal web projects, self-hosted tools, and experimenting with Linux and media server setups**

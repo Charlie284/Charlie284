@@ -22,10 +22,10 @@
 
 <div align="center">
 <pre>
-💼 Student developer
-💻 Flutter • Rust • Linux • Docker • Self-hosting
-📖 Systems programming • Backend architecture • Homelab tooling
-🚀 Web apps • Open source • Self-hosted software
+Student developer
+Flutter • Rust • Linux • Docker • Self-hosting
+Systems programming • Backend architecture • Homelab tooling
+Web apps • Open source • Self-hosted software
 </pre>
 </div>
 

@@ -42,12 +42,12 @@ Web apps • Open source • Self-hosted software
 
 ## Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Charlie284" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Charlie284" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 <a href="https://youtube.com/charlie-q1r3z" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="charlie-q1r3z" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
 
@@ -55,29 +55,8 @@ Web apps • Open source • Self-hosted software
 
 ## Languages and Tools
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank"><img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank"><img src="https://skillicons.dev/icons?i=py" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank"><img src="https://skillicons.dev/icons?i=unreal" width="40" height="40"/></a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=css,dart,docker,express,firebase,flutter,git,grafana,html,js,linux,nodejs,postgres,py,react,rust,sqlite,tailwind,unreal" />
 </p>
 
 <br>
-
-\
-</p>

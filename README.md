@@ -6,7 +6,7 @@
 
 I like turning ambitious ideas into useful software, from polished Flutter apps to focused Rust tools and Linux infrastructure.
 
-<a href="https://clh.lol">Portfolio</a> · <a href="https://clh.lol/blog">Blog</a> · <a href="mailto:charlie@clh.lol">Email</a> · <a href="https://youtube.com/charlie-q1r3z">YouTube</a>
+<a href="https://clh.lol">Portfolio</a> · <a href="https://clh.lol/blog">Blog</a> · <a href="mailto:charlie@clh.lol">Email</a> · <a href="https://www.youtube.com/@charlie-q1r3z">YouTube</a>
 
 </div>
 

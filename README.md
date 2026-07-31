@@ -16,13 +16,13 @@ I like turning ambitious ideas into useful software, from polished Flutter apps 
 <tr>
 <td width="50%" valign="top">
 
-### [Newron](https://github.com/Charlie284/newron)
+### [Startle](https://github.com/Charlie284/Startle)
 
-A source-first Flutter news reader that selects from more than 70 RSS feeds, balances publishers, removes duplicates, and keeps every story linked to its original reporting. Optional tools provide source-grounded briefings, framing analysis, fact-checking, and deeper exploration.
+A native macOS menu-bar utility that plays a randomly selected local video on a configurable schedule. It includes safety-aware scheduling, multi-display playback, sandboxed local storage, and a dedicated emergency shortcut.
 
-`Flutter` `Dart` `RSS` `Cloudflare Pages`
+`Swift` `SwiftUI` `AppKit` `AVFoundation`
 
-[Try Newron](https://newron.clh.lol/) · [View source](https://github.com/Charlie284/newron)
+[View source](https://github.com/Charlie284/Startle)
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@ I enjoy projects where product polish meets systems work: applications that beha
 
 Right now, I’m:
 
-- Building and refining Newron across web and native platforms
+- Building and preparing Startle for its first macOS release
 - Going deeper into Rust, systems programming, and backend design
 - Running Linux-based homelab and media-server infrastructure
 - Looking for useful open-source projects to contribute to
@@ -54,7 +54,7 @@ Right now, I’m:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,rust,kotlin,react,ts,nodejs,postgres,docker,linux&perline=10" alt="Flutter, Dart, Rust, Kotlin, React, TypeScript, Node.js, PostgreSQL, Docker, and Linux" />
+<img src="https://skillicons.dev/icons?i=swift,flutter,dart,rust,kotlin,react,ts,nodejs,postgres,docker,linux&perline=11" alt="Swift, Flutter, Dart, Rust, Kotlin, React, TypeScript, Node.js, PostgreSQL, Docker, and Linux" />
 
 </div>
 

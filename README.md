@@ -29,7 +29,7 @@ A native macOS menu-bar utility that plays a randomly selected local video on a 
 
 ### [pi-calc](https://github.com/Charlie284/pi-calc)
 
-An arbitrary-precision command-line calculator for π, written in Rust with the Chudnovsky algorithm and GMP. It calculates 1,000 digits in roughly 124 μs and scales to much larger runs.
+An arbitrary-precision command-line calculator for π, written in Rust with the Chudnovsky algorithm and GMP. It supports anything from quick checks to much larger precision runs.
 
 `Rust` `rug` `GMP` `CLI`
 
@@ -45,7 +45,7 @@ I enjoy projects where product polish meets systems work: applications that beha
 
 Right now, I’m:
 
-- Building and preparing Startle for its first macOS release
+- Improving Startle and preparing its unsigned previews for a future signed macOS release
 - Going deeper into Rust, systems programming, and backend design
 - Running Linux-based homelab and media-server infrastructure
 - Looking for useful open-source projects to contribute to

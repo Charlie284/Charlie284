@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=48&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Hi%2C+I'm+Charlie+Harper" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=48&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Hi%2C+I'm+Charlie+Harper" width="80%" alt="Hi, I'm Charlie Harper" />
 
 ### Student developer building cross-platform apps, fast Rust tools, and self-hosted systems
 
@@ -18,9 +18,9 @@ I like turning ambitious ideas into useful software, from polished Flutter apps 
 
 ### [Startle](https://github.com/Charlie284/Startle)
 
-A native macOS menu-bar utility that plays a randomly selected local video on a configurable schedule. It includes safety-aware scheduling, multi-display playback, sandboxed local storage, and a dedicated emergency shortcut.
+A native macOS menu-bar utility that plays a randomly selected local video on a configurable schedule. It includes safety-aware scheduling, multi-display playback, sandboxed local storage, a dedicated emergency shortcut, and Sparkle-based updates. Unsigned preview builds are available from [Releases](https://github.com/Charlie284/Startle/releases) while a signed release is prepared.
 
-`Swift` `SwiftUI` `AppKit` `AVFoundation`
+`Swift` `SwiftUI` `AppKit` `AVFoundation` `Sparkle`
 
 [View source](https://github.com/Charlie284/Startle)
 
@@ -29,7 +29,7 @@ A native macOS menu-bar utility that plays a randomly selected local video on a 
 
 ### [pi-calc](https://github.com/Charlie284/pi-calc)
 
-An arbitrary-precision command-line calculator for π, written in Rust with the Chudnovsky algorithm and GMP. It supports anything from quick checks to much larger precision runs.
+An arbitrary-precision command-line calculator for π, written in Rust with the Chudnovsky algorithm and GMP. It handles anything from quick checks to runs of up to 100 million digits, with a quiet mode that prints only the digits.
 
 `Rust` `rug` `GMP` `CLI`
 
